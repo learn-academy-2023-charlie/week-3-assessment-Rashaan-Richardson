@@ -37,7 +37,7 @@ const fibLength2 = 10
 // b) Create the function that makes the test pass.
 const fibSeq = (element) =>{
   var fibbo = [1,1]
-  if (element > 2){
+  if (element > 2) {
     for (let i = 2; i < element; i++){
       fibbo.push(fibbo[fibbo.length-1] + fibbo[fibbo.length-2])
     }
