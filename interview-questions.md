@@ -9,6 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
 Your answer:
+
 JSX stands for JavaScript syntax extension. JSX allows us to use React syntax that is similar to HTML. A huge difference is you must return one element or it wont complie. Which is why we use '<></>'
 
 Researched answer:
